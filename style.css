@@ -1,0 +1,9 @@
+
+
+h1, header p{
+	font-family: 'PT Serif', serif;
+}
+
+nav a, main p, main button{
+	font-family: 'Roboto', sans-serif;
+}
